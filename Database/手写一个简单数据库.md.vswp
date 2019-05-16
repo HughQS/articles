@@ -1,0 +1,4 @@
+vnote_backup_file_826537664 E:/code/articles/Database/手写一个简单数据库.md
+# 手写一个简单数据库（使用c语言从零开始手写一个sqlite克隆）
+## Part 1 - 介绍和安装REPL
+&emsp;作为一个Web开发者，每天我都在工作中使用关系型数据库，但是他们对于我是一个黑盒子。我有如下的一些问题：
